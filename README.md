@@ -10,3 +10,7 @@ Using study of 249 SSC infected mice, given a range of drug treatments over 45 d
 Generate all tables and figures needed for a technical report and clinical study, and provide a top-level summary of the results for the executive team.
 
 **INSTRUCTIONS:**
+
+
+**REFERENCES**
+* For referencing the .agg() method Syntax and Paramters: https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.agg.html?highlight=agg#pandas.core.groupby.DataFrameGroupBy.agg 
