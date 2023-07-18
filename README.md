@@ -55,3 +55,7 @@ Generate all tables and figures needed for a technical report and clinical study
 * For referencing the .agg() method Syntax and Paramters: https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.agg.html?highlight=agg#pandas.core.groupby.DataFrameGroupBy.agg 
 
 * For formatting elements in the boxplot(subplots) figure: https://stackoverflow.com/questions/65648502/how-to-change-outlier-point-symbol-in-python-matplotlib-pyplot 
+
+* For dropping a row using a column value: https://sparkbyexamples.com/pandas/pandas-delete-rows-based-on-column-value/#:~:text=Use%20drop()%20method%20to,or%20on%20another%20column%20value.
+
+* Finging "duplicated" data: https://www.geeksforgeeks.org/find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns/ 
