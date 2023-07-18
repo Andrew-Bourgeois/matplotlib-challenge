@@ -14,3 +14,5 @@ Generate all tables and figures needed for a technical report and clinical study
 
 **REFERENCES**
 * For referencing the .agg() method Syntax and Paramters: https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.agg.html?highlight=agg#pandas.core.groupby.DataFrameGroupBy.agg 
+
+* For formatting elements in the boxplot(subplots) figure: https://stackoverflow.com/questions/65648502/how-to-change-outlier-point-symbol-in-python-matplotlib-pyplot 
